@@ -9,6 +9,6 @@
  * 
 */
 
-function sampleFunction() {}
+// function sampleFunction() {}
 
-console.log("This is a sample function.");
+// console.log("This is a sample function.");

@@ -33,3 +33,8 @@ console.log(variableName3);
 
 // VARIABLE RULES
 // DATA TYPES
+
+// illustratin
+
+const name = "joshua";
+console.log(name);
