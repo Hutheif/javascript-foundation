@@ -60,4 +60,11 @@ for (let i = 0; i < 7; i += 1) {
   }
 }
 
-//create a function print evenin range(num1,num2)that takes a number num1 and num2 and prints even numbers from num1 to num2
+//create a function printEvenInRange(num1, num2) that takes two numbers and prints even numbers from num1 to num2
+function printEvenInRange(num1, num2) {
+  for (let i = num1; i <= num2; i += 1) {
+    if (i % 2 === 0) {
+      console.log(i);
+    }
+  }
+}
